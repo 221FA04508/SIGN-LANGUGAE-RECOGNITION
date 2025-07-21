@@ -58,8 +58,8 @@ If you find this project helpful or inspiring, please consider ⭐ starring the 
 
 | Webcam Feed | Predicted Sign |
 | ----------- | -------------- |
-|M (21).jpg|           |
-
+||           |
+| ![preview1](https://github.com/221FA04508/Real-Time-Sketch-to-Image-Generator-using-AI/blob/8173c58bc45155c40df11b36a95d7a5a8e9ed630/p21.png) |
 
 ---
 
