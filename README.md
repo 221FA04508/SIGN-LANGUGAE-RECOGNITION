@@ -59,7 +59,7 @@ If you find this project helpful or inspiring, please consider ⭐ starring the 
 | Webcam Feed | Predicted Sign |
 | ----------- | -------------- |
 ||           |
-| ![preview1](https://github.com/221FA04508/SIGN-LANGUGAE-RECOGNITION/blob/main/Screenshot%20(53).png) |
+| ![preview1](https://github.com/221FA04508/SIGN-LANGUGAE-RECOGNITION/blob/main/Screenshot%20(53).png) |"U"|
 
 ---
 
