@@ -3,7 +3,7 @@ Here is a **GitHub-style project README** tailored for your **Sign Language Reco
 
 ---
 
-# 🤟 Real-Time Sign Language Recognition for Deaf & Dumb Communication using ML
+# 🤟 Real-Time Sign Language Recognition using MACHINE LEARNING
 
 If you find this project helpful or inspiring, please consider ⭐ starring the repository and supporting inclusive tech!
 
